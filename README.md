@@ -5,7 +5,7 @@
 
 
 ### 📫 Contact Me
-- LinkedIn: [Mustafa Yencilek](https://www.linkedin.com/in/mustafayencilek/)
+- LinkedIn: [Mustafa Yencilek](https://www.linkedin.com/in/mustafa-yencilek/)
 - Telegram: [@mustafayencilek](https://t.me/mustafayencilek)
 
 <!--
