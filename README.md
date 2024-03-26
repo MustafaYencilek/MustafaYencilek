@@ -1,6 +1,13 @@
-## 👋 Hi there I'm Mustafa Yencilek
-### ⭐ I'm interested in Kotlin, Flutter, Java and Android
-### 🌱 I'm currently learning SQL and Python
-### 📫 You can reach me on LinkedIn and Telegram by @mustafayencilek !
+## 👋 Hi there, I'm Mustafa Yencilek!
+
+### 🌟 About Me
+- 🚀 Currently working with Node.js, Frontend technologies (Next.js, React), and more!
+
+
+### 📫 Contact Me
+- LinkedIn: [Mustafa Yencilek](https://www.linkedin.com/in/mustafayencilek/)
+- Telegram: [@mustafayencilek](https://t.me/mustafayencilek)
+
 <!--
-**MustafaYencilek/MustafaYencilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**MustafaYencilek/MustafaYencilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
